@@ -1,4 +1,4 @@
- SocrAI Advanced Tutor (v2)
+ SocrAI Advanced Tutor (v1)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
